@@ -1,5 +1,5 @@
 # Elevvo-ML-Internship 
- I have completed my 1month Machine Learning Internship with Eleevo Pathways
+ ![image alt](https://github.com/shoaibgi/Elevvo-ML-Internship/blob/main/Muhammad%20Shoaib.png?raw=true)
 # Predricted Traffic Signs with CNN 
 ![image alt](https://github.com/shoaibgi/Elevvo-ML-Internship/blob/main/Predicted%20signs.png?raw=true)
 # Traffic CNN Model Accuracy
